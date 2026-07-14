@@ -52,6 +52,29 @@ print(next(gen))
 print(next(gen))
 print(next(gen))
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #qno6
 
 #A
