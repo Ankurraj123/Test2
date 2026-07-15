@@ -120,7 +120,7 @@ import json
 
 with open("students.json", "w") as file:
 
-    json.dump(students, file, indent=4)
+    json.dump(students, file)
 
 #E
 #Read back both files and print their contents to the console
