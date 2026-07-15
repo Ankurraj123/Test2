@@ -145,9 +145,9 @@ with open("report.txt", "r") as file:
 
     lines = file.readlines()
 
-    for i, line in enumerate(lines, start=1):
+    for i, line in enumerate(lines,start=1):
 
-        print(i, line.strip())
+        print(i, line)
 
 #qno7
 
